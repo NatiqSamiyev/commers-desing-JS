@@ -37,9 +37,7 @@
   background: none;
   border: none;
 }
-.top-container nav .close-btn{
-  display: none;
-}
+
 .top-container nav ul {
   display: flex;
 }

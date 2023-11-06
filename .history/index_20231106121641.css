@@ -36,10 +36,9 @@
 .top-container nav button {
   background: none;
   border: none;
-}
-.top-container nav .close-btn{
   display: none;
 }
+
 .top-container nav ul {
   display: flex;
 }
@@ -117,8 +116,7 @@ main .image-container {
 }
 
 .box-1 button {
-  width: 170px;
-  height: 50px;
+
   padding: 0px 24px;
   display: flex;
   justify-content: center;

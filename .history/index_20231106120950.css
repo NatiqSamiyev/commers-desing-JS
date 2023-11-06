@@ -36,10 +36,9 @@
 .top-container nav button {
   background: none;
   border: none;
-}
-.top-container nav .close-btn{
   display: none;
 }
+
 .top-container nav ul {
   display: flex;
 }
@@ -66,10 +65,9 @@
   flex-direction: column;
   gap: 50px;
   background: linear-gradient(270deg, #7743db 31.64%, #5725e5 66.78%);
-  position: absolute;
-  left: 0;
 
-  display: none;
+  position: absolute;
+  
 }
 .top-container .menu-box a{
   /* margin-bottom: 50px; */
